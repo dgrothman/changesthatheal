@@ -1,4 +1,5 @@
-#Color_Code #Red
+# Color Code - Red
+#ColorCode #Red
 ## Strengths
 **As an individual**
 * Excels with logical thinking
@@ -47,7 +48,7 @@
 * Stubborn
 * Denies any personal inadequacies of responsibility
 
-### How to Develop a Positive Connection with Red
+## Developing Positive Connections with Red
 **Do's**
 * Present issues logically
 * Demand their attention and respect

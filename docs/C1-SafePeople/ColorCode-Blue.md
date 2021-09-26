@@ -1,4 +1,5 @@
-#Color_Code #Blue
+# Color Code - Blue
+#ColorCode #Blue
 ## Strengths
 **As an individual**
 * Sees life as a serious endeavor
@@ -34,7 +35,7 @@
 * Wishes friends would communicate more often
 * Rarely playful and spontaneous
 
-### How to Develop a Positive Connection with Blue
+## Developing Positive Connections with Blue
 **Do's**
 - Emphasize their security in the relationship
 - Be sensitive and soft-spoken in your approach

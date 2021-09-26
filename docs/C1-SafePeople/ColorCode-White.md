@@ -1,4 +1,5 @@
-#Color_Code #White
+# Color Code - White
+#ColorCode #White
 ## Strengths
 **As an individual**
 * Quiet, reflective, and peaceful
@@ -40,7 +41,7 @@
 * Requests extra protection and a lot of support
 * Easily hurt and defeated
 
-### How to Develop a Positive Connection with White
+## Developing Positive Connections with White
 **Do's**
 * Be kind
 * Be logical, clear, and firm about the content you present

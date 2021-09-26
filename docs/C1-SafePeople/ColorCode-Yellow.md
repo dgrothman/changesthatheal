@@ -1,4 +1,5 @@
-#Color_Code #Yellow
+# Color Code - Yellow
+#ColorCode #Yellow
 ## Strengths
 **As an indiviudal**
 * Highly optimistic (rarely depressed)
@@ -40,7 +41,7 @@
 * Uncomfortable in painful or distressing environments
 * Makes new friends easily and without guilt, often at the expense of old friends
 
-### How to Develop a Positive Connection with Yellow
+## Developing Positive Connections with Yellow
 **Do's**
 * Be positive and proactive with them in your life
 * Adore and praise them legitimately
