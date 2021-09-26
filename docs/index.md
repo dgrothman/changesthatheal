@@ -1,5 +1,5 @@
 # Changes That Heal
-Notes for the 8 week classes of Changes That Heal
+Notes for the 8 week classes of Changes That Heal 
 
 ## Class 1 - Safe People
 [[Group Courtesies]]
