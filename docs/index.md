@@ -3,6 +3,7 @@ Notes for the 8 week classes of Changes That Heal
 
 Current Schedule:
 * Class 1 - Safe People
+	* [GroupCourtesies](/C1-SafePeople/GroupCourtesies.md)
 	* [Safe People Are](/C1-SafePeople/SafePeople.md)
 	* [Color Code - Blue](/C1-SafePeople/ColorCode-Blue.md)
 	* [Color Code - Red](/C1-SafePeople/ColorCode-Red.md)

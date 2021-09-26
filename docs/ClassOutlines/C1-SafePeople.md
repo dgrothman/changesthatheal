@@ -2,7 +2,7 @@
 
 Class Guidelines (15min)
 * Intro to us and why we are teaching class
-* [[Group Courtesies]]
+* [GroupCourtesies](/C1-SafePeople/GroupCourtesies.md)
 	* No Cross Talk
 		* A person is sharing their reality, nobody get to challenge or try and change that reality.
 	* Events are for before or after class
@@ -21,19 +21,16 @@ Brains Storm (10min)
 * What makes a person Safe person / Unsafe person
 
 Lesson (35min)
-* [[SafePeople]]
-* [[ColorCode-White]]
-* [[ColorCode-Blue]]
-* [[ColorCode-Red]]
-* [[ColorCode-Yellow]]
+* [SafePeople](/C1-SafePeople/SafePeople.md)
+* [ColorCode-White](/C1-SafePeople/ColorCode-White.md)
+* [ColorCode-Blue](/C1-SafePeople/ColorCode-Blue.md)
+* [ColorCode-Red](/C1-SafePeople/ColorCode-Red.md)
+* [ColorCode-Yellow](/C1-SafePeople/ColorCode-Yellow.md)
 
 Groups (45min)
-* [[SafePeople]]
+* Safe People
 	* What stood out to you in the safe people handout?
-* [[ColorCode-White]]
-* [[ColorCode-Blue]]
-* [[ColorCode-Red]]
-* [[ColorCode-Yellow]]
+* Color Code
 	* What primary color are you?
 		* Do you tend to change color when under stress?
 	* What color do you feel is the hardest for you to deal with?
