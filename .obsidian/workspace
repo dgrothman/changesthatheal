@@ -1,0 +1,108 @@
+{
+  "main": {
+    "id": "decb36af42b18a3b",
+    "type": "split",
+    "children": [
+      {
+        "id": "612c17648b7cd08c",
+        "type": "leaf",
+        "state": {
+          "type": "empty",
+          "state": {}
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "4e090c187778ee29",
+    "type": "split",
+    "children": [
+      {
+        "id": "3d418651a03874fd",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3930bc50fd2c437e",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "c774e42dac1bc2d9",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#Blue",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "3e2bbc9ffb9b490d",
+    "type": "split",
+    "children": [
+      {
+        "id": "347ee590eebdef82",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e21e594be649e30c",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "4b20c761bcf5a946",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "612c17648b7cd08c",
+  "lastOpenFiles": [
+    "docs/index.md",
+    "docs/Untitled.md",
+    "Class Outlines/Class 1 Notes - Safe People.md",
+    "Class 1 - Safe People/Safe People Are.md",
+    "Class 1 - Safe People/Untitled.md",
+    "Class 1 - Safe People/Color Code Breakdown - Blue.md",
+    "Class 1 - Safe People/Color Code Breakdown - Red.md",
+    "Class 1 - Safe People/Color Code Breakdown - White.md",
+    "Class 1 - Safe People/Color Code Breakdown - Yellow.md"
+  ]
+}
