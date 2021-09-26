@@ -1,10 +1,6 @@
 # Changes That Heal
 Notes for the 8 week classes of Changes That Heal 
 
-## Class 1 - Safe People
-[[Group Courtesies]]
-[[Safe People]]
-[[Color Code Breakdown - Blue]]
-[[Color Code Breakdown - Red]]
-[[Color Code Breakdown - White]]
-[[Color Code Breakdown - Yellow]]
+Current Schedule:
+* Class 1 - Safe People
+	* [Safe People Are](Class%201%201%20-%20Safe%20People/Safe%20People.md)
