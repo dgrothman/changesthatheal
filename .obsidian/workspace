@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "docs/index.md",
+            "file": "docs/ClassOutlines/C1-SafePeople.md",
             "mode": "source"
           }
         }
@@ -39,7 +39,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#Blue",
+                "query": "tag:#ColorCode",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/index.md",
+                "file": "docs/ClassOutlines/C1-SafePeople.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,6 +99,8 @@
   },
   "active": "612c17648b7cd08c",
   "lastOpenFiles": [
+    "docs/ClassOutlines/C1-SafePeople.md",
+    "docs/C1-SafePeople/ColorCode-Blue.md",
     "docs/index.md",
     "docs/Untitled.md",
     "Class Outlines/Class 1 Notes - Safe People.md",
@@ -106,7 +108,6 @@
     "Class 1 - Safe People/Untitled.md",
     "Class 1 - Safe People/Color Code Breakdown - Blue.md",
     "Class 1 - Safe People/Color Code Breakdown - Red.md",
-    "Class 1 - Safe People/Color Code Breakdown - White.md",
-    "Class 1 - Safe People/Color Code Breakdown - Yellow.md"
+    "Class 1 - Safe People/Color Code Breakdown - White.md"
   ]
 }
