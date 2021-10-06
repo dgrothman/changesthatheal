@@ -1,3 +1,8 @@
+---
+title: Color Code - Blue
+tags:
+    - ColorCode
+---
 # Color Code - Blue
 ## Strengths
 **As an individual**

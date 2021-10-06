@@ -1,3 +1,8 @@
+---
+title: Color Code - White
+tags:
+- ColorCode
+---
 # Color Code - White
 ## Strengths
 **As an individual**

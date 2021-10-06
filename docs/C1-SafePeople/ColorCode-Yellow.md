@@ -1,3 +1,8 @@
+---
+title: Color Code - Yellow
+tags:
+- ColorCode
+---
 # Color Code - Yellow
 ## Strengths
 **As an indiviudal**

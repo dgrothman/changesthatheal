@@ -1,3 +1,8 @@
+---
+title: Color Code - Red
+tags:
+- ColorCode
+---
 # Color Code - Red
 ## Strengths
 **As an individual**
