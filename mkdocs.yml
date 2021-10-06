@@ -1,0 +1,4 @@
+site_name: Changes That Heal
+site_url: https://dgrothman.github.io/changesthatheal/
+theme:
+  name: 'material'
