@@ -1,7 +1,7 @@
 # Color Code - White
-#ColorCode #White
 ## Strengths
 **As an individual**
+
 * Quiet, reflective, and peaceful
 * Sincere and genuine lifestyle
 * Appears to accept life comfortably
@@ -10,6 +10,7 @@
 * Blends into all situations
 
 **As a friend**
+
 * Patient and enduring through good and bad times
 * Tolerant of unkind behavior
 * Supportive and accepting
@@ -23,6 +24,7 @@
 
 ## Limitations
 **As an individual**
+
 * Boring because detached
 * Takes passive approach to life
 * Unresponsive or note openly excited about experiences
@@ -34,6 +36,7 @@
 * Resists making commitments
 
 **As a friend**
+
 * Lacks creativity to make suggestions
 * Easily led by others opinions
 * Won’t express honest perspective if controversial
@@ -43,6 +46,7 @@
 
 ## Developing Positive Connections with White
 **Do's**
+
 * Be kind
 * Be logical, clear, and firm about the content you present
 * Provide a structure (boundaries) for them to operate in
@@ -55,6 +59,7 @@
 * Listen quietly
 
 **Don'ts**
+
 * Be cruel and insensitive
 * Expect them to need much social interaction
 * Force immediate verbal expressions; accept written communication

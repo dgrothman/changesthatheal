@@ -1,7 +1,3 @@
 .obsidian/cache
 .trash/
 .DS_Store
-/vendor
-/.bundle
-/docs/vendor
-/docs/.bundle

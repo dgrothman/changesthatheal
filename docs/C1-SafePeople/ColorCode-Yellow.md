@@ -1,7 +1,7 @@
 # Color Code - Yellow
-#ColorCode #Yellow
 ## Strengths
 **As an indiviudal**
+
 * Highly optimistic (rarely depressed)
 * Likes self and accepts others easily
 * Loves to volunteer for opportunities
@@ -10,6 +10,7 @@
 * Adventurous and daring
 
 **As a friend**
+
 * Exciting and fun to be with (never dull or boring)
 * Often places friend before family
 * Forgiving of self and others
@@ -20,6 +21,7 @@
 
 ## Limitations
 **As an individual**
+
 * Needs to look good socially (high priority)
 * Irresponsible and unreliable
 * Self-centered and egotistical
@@ -33,6 +35,7 @@
 * Unable to confront or face issues
 
 **As a friend**
+
 * Spends most of time discussing own life
 * Shows up at his or her convenience
 * Undependable in a crisis
@@ -43,6 +46,7 @@
 
 ## Developing Positive Connections with Yellow
 **Do's**
+
 * Be positive and proactive with them in your life
 * Adore and praise them legitimately
 * Touch them physically
@@ -55,6 +59,7 @@
 * Allow them opportunity for verbal expression
 
 **Don'ts**
+
 * Be too serious or sober in criticism
 * Push them too intently
 * Ignore them

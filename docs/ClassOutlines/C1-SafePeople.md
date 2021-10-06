@@ -1,8 +1,7 @@
-#notes
-
-Class Guidelines (15min)
+# Class 1 - Safe People - Outline
+### Class Guidelines (15min)
 * Intro to us and why we are teaching class
-* [GroupCourtesies](/C1-SafePeople/GroupCourtesies.md)
+* [GroupCourtesies](/changesthatheal/C1-SafePeople/GroupCourtesies/)
 	* No Cross Talk
 		* A person is sharing their reality, nobody get to challenge or try and change that reality.
 	* Events are for before or after class
@@ -17,17 +16,17 @@ Class Guidelines (15min)
 	*	Class 7: Self Esteem - **Jamie?**
 	*	Class 8: Grace, Truth & Time - **Leslie**
 
-Brains Storm (10min)
+### Brains Storm (10min)
 * What makes a person Safe person / Unsafe person
 
-Lesson (35min)
-* [SafePeople](/C1-SafePeople/SafePeople.md)
-* [ColorCode-White](/C1-SafePeople/ColorCode-White.md)
-* [ColorCode-Blue](/C1-SafePeople/ColorCode-Blue.md)
-* [ColorCode-Red](/C1-SafePeople/ColorCode-Red.md)
-* [ColorCode-Yellow](/C1-SafePeople/ColorCode-Yellow.md)
+### Lesson (55min)
+* [SafePeople](/changesthatheal/C1-SafePeople/SafePeople/)
+* [ColorCode-White](/changesthatheal/C1-SafePeople/ColorCode-White/)
+* [ColorCode-Blue](/changesthatheal/C1-SafePeople/ColorCode-Blue/)
+* [ColorCode-Red](/changesthatheal/C1-SafePeople/ColorCode-Red/)
+* [ColorCode-Yellow](/changesthatheal/C1-SafePeople/ColorCode-Yellow/)
 
-Groups (45min)
+### Groups (45min)
 * Safe People
 	* What stood out to you in the safe people handout?
 * Color Code

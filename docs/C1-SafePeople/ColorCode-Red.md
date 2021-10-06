@@ -1,7 +1,7 @@
 # Color Code - Red
-#ColorCode #Red
 ## Strengths
 **As an individual**
+
 * Excels with logical thinking
 * Committed to a productive lifestyle
 * Dynamic and direct
@@ -11,6 +11,7 @@
 * Creative in crisis
 
 **As a friend**
+
 * Direct and quick with suggestions
 * Great in emergencies
 * Direct and quick with disasters
@@ -20,6 +21,7 @@
 
 ## Limitations
 **As an individual**
+
 * Generally seeks to serve self (what’s in it for me)
 * Promotes turmoil and conflict when a personal goal is to be gained
 * Out of touch with own feelings
@@ -31,6 +33,7 @@
 * Inpatient with others
 
 **As a friend**
+
 * Insensitive and unemotional
 * Doesn’t like to admit the need for friendship
 * Remains detached from sharing self completely
@@ -50,6 +53,7 @@
 
 ## Developing Positive Connections with Red
 **Do's**
+
 * Present issues logically
 * Demand their attention and respect
 * Do your homework!
@@ -63,6 +67,7 @@
 * Respect their need to make their own decisions their own way
 
 **Don'ts**
+
 * Embarrass them in front of others
 * Argue from an emotional perspective
 * Always use authoritarian approach

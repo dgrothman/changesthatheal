@@ -1,7 +1,7 @@
 # Color Code - Blue
-#ColorCode #Blue
 ## Strengths
 **As an individual**
+
 * Sees life as a serious endeavor
 * Appreciates beauty and detail
 * Has a strong aesthetic sense
@@ -12,6 +12,7 @@
 * Deep sense of purpose
 
 **As a friend**
+
 * Loyal forever once friendship is established
 * Genuine concern for other person’s well-being
 * Remembers special holidays and promotes celebrations
@@ -20,12 +21,14 @@
 
 ## Limitations
 **As an individual**
+
 * Highly emotional
 * Smug and self-righteous
 * Controlling and/or envious of others’ success when too too easily obtained
 * Strong perfecting and performance orientation
 
 **As a friend**
+
 * Highly insecure about other’s and approval
 * Feels rejected easily
 * When depressed or depressive, feels it is friend’s job to understand
@@ -37,6 +40,7 @@
 
 ## Developing Positive Connections with Blue
 **Do's**
+
 - Emphasize their security in the relationship
 - Be sensitive and soft-spoken in your approach
 - Be sincere and genuine
@@ -49,6 +53,7 @@
 - Do thorough analysis before making presentations
 
 **Don'ts**
+
 * Make them feel guilty
 * Be rude or abrupt
 * Promote too much change

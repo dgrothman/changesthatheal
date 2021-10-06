@@ -1,5 +1,5 @@
-## Safe People Are:
-#SafePeople
+# Safe People Are
+
 * People who react to you in a different way than those who injured you. Use your memory to tell the difference.
 * People, who, over time, have a loving track record. See if their walk matches their talk.
 * People who can be observed from some emotional distance. Take small risks in vulnerability before taking bigger risks.
