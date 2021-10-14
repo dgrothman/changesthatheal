@@ -1,3 +1,8 @@
+---
+title: Safe People Are
+tags:
+- Safe People
+---
 # Safe People Are
 
 * People who react to you in a different way than those who injured you. Use your memory to tell the difference.

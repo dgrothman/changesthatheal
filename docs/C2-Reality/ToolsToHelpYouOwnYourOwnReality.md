@@ -1,3 +1,8 @@
+---
+title: Tools to help you own your own reality
+tags:
+- Reality
+---
 # Tools to help you own your own reality
 
 **Who you are** - Your sense of self - Your body, thinking, feeling and behavior.

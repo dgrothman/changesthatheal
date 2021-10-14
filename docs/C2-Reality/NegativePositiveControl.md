@@ -1,3 +1,10 @@
+---
+title: Negative Control / Positive Control
+tags:
+- Reality
+- Negative Control
+- Positive Control
+---
 # Negative Control / Positive Control
 Our frustration and confusion as codependents stem primarily from our
 attempts to control the reality of other people and from letting their reality

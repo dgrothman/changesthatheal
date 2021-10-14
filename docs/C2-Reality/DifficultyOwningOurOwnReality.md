@@ -1,3 +1,8 @@
+---
+title: Difficulty owning our own reality
+tags:
+- Reality
+---
 # Difficulty owning our own reality
 Difficulty owning your own "reality" means you have difficulty experiencing who you are and sharing that with other people. Codependents often report that they don't know who they are. 
 **To experience ourselves, we have to be able to be aware of and acknowledge our reality**. Our reality has four components:

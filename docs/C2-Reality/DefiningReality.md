@@ -1,3 +1,8 @@
+---
+title: Defining Reality
+tags:
+- Reality
+---
 # Defining Reality
 The term reality refers to the fact that **each individual has his or her own unique way of interpreting life**.
 

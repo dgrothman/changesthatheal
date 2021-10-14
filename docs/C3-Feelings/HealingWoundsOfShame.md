@@ -5,7 +5,7 @@ tags:
 ---
 # Healing Wounds Of Shame
 ### From *Letting Go of Shame* by Ronald and Patricia Potter-Efron
-### Understanding Phase
+#### Understanding Phase
 1. **Be Patient - shame heals slowly**
    1. Shame is about a person’s identity as a human being. Since the wounds from shame are
       frequently deep and long lasting, it will take a while to feel better.
@@ -25,7 +25,7 @@ tags:
 5. **Accept your shame as part of the human condition.**
    1. The understanding part of resolving shame ends when we accept ourselves as human beings who occasionally feel ashamed. Our shame won’t go away by our fearing, hating, and fighting it. In fact, it could even grow stronger if we fight it.
 
-### Action Phase
+#### Action Phase
 1. **Get some help - you don’t have to do this alone.**
    1. Isolation is a common reaction to feelings of shame. The more deeply a person is shamed, the more she will tend to hide her thoughts, feelings, and actions from others....In general, damage from shame begins to heal when that shame is exposed to others in a safe environment.
 2. **Challenge the shame.**

@@ -1,3 +1,8 @@
+---
+title: Why we are afraid to tell people who we are
+tags:
+- Reality
+---
 # Why we are afraid to tell people who we are
 
 1. Fear of rejection, after all, all we have is who we are.
