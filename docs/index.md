@@ -33,3 +33,8 @@ identify if you are in it. The positive and negative sides of our feelings, and 
 * ***Facing Codependence** by Pia Mellody, Andrea Miller, & J. Keith Miller*
 * ***Hiding From Love** by Dr. John Townsend*
 * ***Codependent No More** by Mellody Beattie*
+* ***The Language of Letting Go** by Melody Beattie*
+* ***Good 'n' Angry: How to Handle Your Anger Positively** by Les Carter*
+* ***Mind Over Emotions** by Dr. Les Carter*
+* ***Feel the Fear & Do It Anyway** by Susan Jeffers, Ph.D.*
+* ***Letting Go of Shame** by Ronald and Patricia Potter-Efron*

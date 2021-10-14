@@ -1,5 +1,15 @@
+---
+title: Feelings Chart
+tags:
+- Joy
+- Pain
+- Anger
+- Fear
+- Guilt
+- Shame
+---
 # Feelings Chart
-## According to Pia Mellody's *Facing Codependency*
+### According to Pia Mellody's *Facing Codependency*
 ### **Thoughts** - the brain assigning meaning to incoming data
 ### **Feelings** - the physiological response to a chemical reaction in the brain
 ### **Emotions** - the name the brain assigns to that physiological response

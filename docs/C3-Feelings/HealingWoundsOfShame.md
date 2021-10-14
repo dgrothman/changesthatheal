@@ -1,5 +1,10 @@
+---
+title: Healing Wounds Of Shame
+tags:
+- Shame
+---
 # Healing Wounds Of Shame
-## From *Letting Go of Shame* by Ronald and Patricia Potter-Efron
+### From *Letting Go of Shame* by Ronald and Patricia Potter-Efron
 ### Understanding Phase
 1. **Be Patient - shame heals slowly**
    1. Shame is about a person’s identity as a human being. Since the wounds from shame are

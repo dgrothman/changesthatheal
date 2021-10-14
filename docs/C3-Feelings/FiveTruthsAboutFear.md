@@ -1,5 +1,10 @@
+---
+title: Five Truths About Fear
+tags:
+- Fear
+---
 # Five Truths About Fear
-## From *Feel the Fear & Do It Anyway* by Susan Jeffers, Ph.D.
+### From *Feel the Fear & Do It Anyway* by Susan Jeffers, Ph.D.
 
 #### 1. **The fear will never go away as long as you continue to grow.**
 You no longer have to work so hard to get rid of the fear as long as you know that it isn't going to go away. Go ahead - push, stretch, grow. Pain is a healthy part of life.
