@@ -2,6 +2,7 @@
 title: Five Truths About Fear
 tags:
 - Fear
+- Group Discussion
 ---
 # Five Truths About Fear
 ### From *Feel the Fear & Do It Anyway* by Susan Jeffers, Ph.D.

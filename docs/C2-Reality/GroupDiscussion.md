@@ -1,7 +1,7 @@
 ---
     title: Class 2 - Reality - Group Discussion Questions
     tags:
-        - Group Discussion Questions
+        - Group Discussion
 ---
 # Group Discussion Questions
 **[Defining Reality](/changesthatheal/C2-Reality/DefiningReality/)**

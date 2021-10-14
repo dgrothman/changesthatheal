@@ -2,6 +2,7 @@
 title: Healing Wounds Of Shame
 tags:
 - Shame
+- Group Discussion
 ---
 # Healing Wounds Of Shame
 ### From *Letting Go of Shame* by Ronald and Patricia Potter-Efron

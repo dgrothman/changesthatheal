@@ -2,6 +2,7 @@
 title: Stopping Our Pain
 tags:
 - Pain
+- Group Discussion
 ---
 # Stopping Our Pain
 ### From *The Language of Letting Go* by Melody Beattie

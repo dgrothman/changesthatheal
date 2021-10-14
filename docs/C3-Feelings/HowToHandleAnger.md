@@ -2,6 +2,7 @@
 title: How To Handle Anger
 tags:
 - Anger
+- Group Discussion
 ---
 # How To Handle Anger
 ### From *Good 'n' Angry: How to Handle Your Anger Positively* by Les Carter

@@ -1,7 +1,7 @@
 ---
     title: Class 1 - Safe People - Group Discussion Questions
     tags:
-        - Group Discussion Questions
+        - Group Discussion
 ---
 # Group Discussion Questions
 **[Safe People](/changesthatheal/C1-SafePeople/SafePeople/)**

@@ -2,6 +2,7 @@
 title: Letting Go Of Guilt
 tags:
 - Guilt
+- Group Discussion
 ---
 # Letting Go Of Guilt
 ### From *Mind Over Emotions* by Dr. Les Carter
