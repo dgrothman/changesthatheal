@@ -20,7 +20,9 @@ to try and change another person's reality, or let them control our reality.
 <iframe src="https://anchor.fm/dgrothman/embed/episodes/CTH---Fall-2021---Class-2---Reality-e18g2i5" height="102px" width="400px" frameborder="0" scrolling="no"></iframe>
 #### [Class 3 - Reality Part 2 Feelings](/changesthatheal/C3-Feelings/ShameBasedDistortedThinking/)
 We dig into some more important items about reality, specifically. The Drama Triangle, what it is and how to 
-identify if you are in it. The positive and negative sides of our feelings, and how to identify them, and control them.  
+identify if you are in it. The positive and negative sides of our feelings, and how to identify them, and control them.
+
+<iframe src="https://anchor.fm/dgrothman/embed/episodes/CTH---Fall-2021---Class-3---Reality-Part-2-e18rehb" height="102px" width="400px" frameborder="0" scrolling="no"></iframe>
 #### Class 4 - Boundaries
 #### Class 5 - Moderation
 #### Class 6 - Self Care
