@@ -38,3 +38,5 @@ identify if you are in it. The positive and negative sides of our feelings, and 
 * ***Mind Over Emotions** by Dr. Les Carter*
 * ***Feel the Fear & Do It Anyway** by Susan Jeffers, Ph.D.*
 * ***Letting Go of Shame** by Ronald and Patricia Potter-Efron*
+* ***Change Your Brain Change Your Life** by Daniel Amen*
+* **[Imago Dei Ministries](https://www.idmin.org)**
