@@ -1,5 +1,5 @@
 # Boundary Sketch
-#### Healthy:
+### Healthy:
 Healthy boundaries are like a door with a doorknob on the inside that
 we can choose when to open or close. With intact flexible internal/ external
 boundaries people can have intimacy in their lives when they choose but are
@@ -10,7 +10,7 @@ boundaries, choices, limits.
 Rev: 3:20 "Behold I stand at the door and knock. If anyone opens the door I will come in and sup
 with him and he with me."
 
-#### None:
+### None:
 No Boundaries. They have no sense of being abused or of being abusive.
 Such people have trouble saying No or protecting themselves.
 They allow others to take advantage of them physically, sexually, emotionally, or intellectually
@@ -22,7 +22,7 @@ another person's right to have boundaries with the codependent. Therefore, they
 move through other peoples boundaries unaware that they are doing something inappropriate.
 Life crashes in doesn't know own Reality. Victim/Abuser/Rescuer
 
-#### Partial:
+### Partial:
 Partial Boundaries. People with damaged boundaries can at times or with certain individuals say No, 
 set limits and take care of themselves. At other times or with other people they are powerless to set boundaries.
 
@@ -30,7 +30,7 @@ For instance, they may be able to set boundaries with everyone but authority fig
 his/her child. In addition to, in certain circumstances they become offenders, stepping into someone else's
 life and trying to control it or manipulate it.
 
-#### Walls:
+### Walls:
 Walls are most often made up of either Anger or Fear.
 
 **Anger:** People who use a wall of Anger give off the message (either verbally or nonverbally), if you

@@ -46,4 +46,7 @@ from us.
 * ***Feel the Fear & Do It Anyway** by Susan Jeffers, Ph.D.*
 * ***Letting Go of Shame** by Ronald and Patricia Potter-Efron*
 * ***Change Your Brain Change Your Life** by Daniel Amen*
+* ***_Boundaries_** by Drs. Henry Cloud and John Townsend*
+* ***_Changes That Heal_** by Dr. Henry Cloud*
+* ***_Breaking Free_** by Pia Mellody and Andrea Wells Miller*
 * **[Imago Dei Ministries](https://www.idmin.org)**
