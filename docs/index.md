@@ -24,6 +24,11 @@ identify if you are in it. The positive and negative sides of our feelings, and 
 
 <iframe src="https://anchor.fm/dgrothman/embed/episodes/CTH---Fall-2021---Class-3---Reality-Part-2-e18rehb" height="102px" width="400px" frameborder="0" scrolling="no"></iframe>
 #### Class 4 - Boundaries
+Now that we have started to understand how do we protect that, and protect us from forcing that reality onto others?
+Boundaries are how, they are the containers of our Reality. Not only do they protect us, but they also protect others
+from us.
+
+<iframe src="https://anchor.fm/dgrothman/embed/episodes/CTH---Fall-2021---Class-4---Boundaries-e198893" height="102px" width="400px" frameborder="0" scrolling="no"></iframe>
 #### Class 5 - Moderation
 #### Class 6 - Self Care
 #### Class 7 - Self Esteem
