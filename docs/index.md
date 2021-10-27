@@ -29,7 +29,14 @@ Boundaries are how, they are the containers of our Reality. Not only do they pro
 from us.
 
 <iframe src="https://anchor.fm/dgrothman/embed/episodes/CTH---Fall-2021---Class-4---Boundaries-e198893" height="102px" width="400px" frameborder="0" scrolling="no"></iframe>
-#### Class 5 - Moderation
+#### [Class 5 - Moderation](/changesthatheal/C5-Moderation/Moderation/)
+As you grow you start to become aware of areas that are over-the-top or suppressed both of
+which are not moderate, and then as you bring those areas into healing you will start to notice they get pulled back
+to a more balanced moderate response.
+Moderation is the balancing piece that ties very closely to your reality and boundaries, all three combined 
+to give you a sense of your own empowerment and value. 
+
+
 #### Class 6 - Self Care
 #### Class 7 - Self Esteem
 #### Class 8 - Grace, Truth & Time
