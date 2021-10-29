@@ -36,7 +36,7 @@ to a more balanced moderate response.
 Moderation is the balancing piece that ties very closely to your reality and boundaries, all three combined 
 to give you a sense of your own empowerment and value. 
 
-
+<iframe src="https://anchor.fm/dgrothman/embed/episodes/CTH---Fall-2021---Class-5---Moderation-e19gc81" height="102px" width="400px" frameborder="0" scrolling="no"></iframe>
 #### Class 6 - Self Care
 #### Class 7 - Self Esteem
 #### Class 8 - Grace, Truth & Time
