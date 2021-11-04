@@ -37,7 +37,12 @@ Moderation is the balancing piece that ties very closely to your reality and bou
 to give you a sense of your own empowerment and value. 
 
 <iframe src="https://anchor.fm/dgrothman/embed/episodes/CTH---Fall-2021---Class-5---Moderation-e19gc81" height="102px" width="400px" frameborder="0" scrolling="no"></iframe>
-#### Class 6 - Self Care
+#### [Class 6 - Self Care](/changesthatheal/C6-SelfCare/DifficultyAknowledingNeedsWants/)
+Knowing our needs and wants is a pivotal step in creating connection in relationships, as well
+as balancing that share of their needs and wants along with your own needs and wants. This in
+conjunction with bringing your own reality and boundaries in moderation into the relationship
+creates the connection that is fulfilling for both people involved.
+
 #### Class 7 - Self Esteem
 #### Class 8 - Grace, Truth & Time
 
