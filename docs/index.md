@@ -43,6 +43,7 @@ as balancing that share of their needs and wants along with your own needs and w
 conjunction with bringing your own reality and boundaries in moderation into the relationship
 creates the connection that is fulfilling for both people involved.
 
+<iframe src="https://anchor.fm/dgrothman/embed/episodes/CTH---Fall-2021---Class-6---Self-Care-e19rekb" height="102px" width="400px" frameborder="0" scrolling="no"></iframe>
 #### Class 7 - Self Esteem
 #### Class 8 - Grace, Truth & Time
 
