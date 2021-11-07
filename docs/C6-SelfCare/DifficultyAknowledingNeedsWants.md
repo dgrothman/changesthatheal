@@ -28,6 +28,7 @@ be a doctor." "I want to develop this corporation." "I want to have a child."**
 ### The four categories of difficulty acknowledging and meeting our wants and needs:
 We experience not being in touch with our needs and wants in one of
 four different ways according to the experiences we had in childhood.
+
 1. I am **too dependent**. I know my needs or wants but expect other people to take care of them for
    me, and I wait, expecting them to know to do so as I do not take care of them myself.
 2. I am **anti dependent**. I am able to acknowledge to myself that I have needs and wants, but I try
