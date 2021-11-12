@@ -45,6 +45,9 @@ creates the connection that is fulfilling for both people involved.
 
 <iframe src="https://anchor.fm/dgrothman/embed/episodes/CTH---Fall-2021---Class-6---Self-Care-e19rekb" height="102px" width="400px" frameborder="0" scrolling="no"></iframe>
 #### Class 7 - Self Esteem
+Value is what we all strive for, and in the weeks lesson we dig into the different types and how we can work to keep it within ourselves, as well as becoming aware of when we have placed it outside of ourselves and therefor are trying to control others.
+
+<iframe src="https://anchor.fm/dgrothman/embed/episodes/CTH---Fall-2021---Class-7---Self-Esteem-e1a6cjo" height="102px" width="400px" frameborder="0" scrolling="no"></iframe>
 #### Class 8 - Grace, Truth & Time
 
 ## Class Resources
