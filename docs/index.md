@@ -49,7 +49,10 @@ Value is what we all strive for, and in the weeks lesson we dig into the differe
 
 <iframe src="https://anchor.fm/dgrothman/embed/episodes/CTH---Fall-2021---Class-7---Self-Esteem-e1a6cjo" height="102px" width="400px" frameborder="0" scrolling="no"></iframe>
 #### Class 8 - Grace, Truth & Time
+Now that we have the tools we to work through re-parenting ourselves. These last ingredients are a big help in keeping us moving
+along the journey
 
+<iframe src="https://anchor.fm/dgrothman/embed/episodes/CTH---Fall-2021---Class-8---Grace--Truth--Time-e1aplgu" height="102px" width="400px" frameborder="0" scrolling="no"></iframe>
 ## Class Resources
 
 * **[Color Code Personality Test](https://colorcode.com)**
@@ -65,4 +68,5 @@ Value is what we all strive for, and in the weeks lesson we dig into the differe
 * ***_Boundaries_** by Drs. Henry Cloud and John Townsend*
 * ***_Changes That Heal_** by Dr. Henry Cloud*
 * ***_Breaking Free_** by Pia Mellody and Andrea Wells Miller*
+* ***_Searching For Significance_** by Robert S. McGee*
 * **[Imago Dei Ministries](https://www.idmin.org)**
