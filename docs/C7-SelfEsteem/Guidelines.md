@@ -9,19 +9,19 @@ discipline.
 ### Don't keep score on your partner
 When your partner is confronting you about your behavior, avoid bringing up how your partner
 did the same thing several times last week. What your partner did last week is not relevant to the
-conversation this week. The two of you are discussing what you&#39;ve done this week.
+conversation this week. The two of you are discussing what you've done this week.
 
 ### Don't argue perceptions (or facts)
 Understand that each partner has perceptions, and your job is to identify your own perception
-and listen to your partner&#39;s perception. We can probably be most respectful of our partner simply
+and listen to your partner's perception. We can probably be most respectful of our partner simply
 by hearing who that person is without judgment or trying to make our partner change his or her
 reality.
 
 ### Don't threaten abondonment in the face of conflict
 Threatening abandonment is something people often use to alarm their partner when they realize
-they&#39;re not winning. If you find yourself slipping into an argument and the partner is winning,
-try to avoid saying something like, &quot;I&#39;m going out and I don&#39;t know when I&#39;m coming back,&quot; or,
-&quot;Maybe we shouldn&#39;t even be in a relationship together.&quot;
+they're not winning. If you find yourself slipping into an argument and the partner is winning,
+try to avoid saying something like, "I'm going out and I don't know when I'm coming back," or,
+"Maybe we shouldn't even be in a relationship together."
 
 ### Communicate in four sentences or less
 Before making requests, describing events, or asking for support, think about what you are going
