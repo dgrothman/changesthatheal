@@ -1,5 +1,5 @@
 # Difficulty Experiencing Appropriate Levels Of Self-Esteem
-#### From **Facing Codependence** by Pia Mellody, Andrea Miller & J. Keith Miller
+#### From _Facing Codependence_ by Pia Mellody, Andrea Miller & J. Keith Miller
 
 **Healty self-esteem** is the internal experience of one's own preciousness and value as a person. It
 comes from inside a person and moves outward into relationships. Healthy people know that they are valuable 
