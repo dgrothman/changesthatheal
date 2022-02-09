@@ -7,7 +7,15 @@ We work through each symptom and discuss tools and perspectives that help to cre
 framework for handling life as it comes, rather than being handled by life. It is more than anything
 a safe place to try and experience our reality
 
-## Class Signup Form
+## Spring 2022 Signup
+
+We are excited to announce our Spring 2022 class will start March 3rd and last for 8 weeks! Please visit
+http://bit.ly/cth-spring2022 to reserve your seat(s) now! Seating is limited. Please note we close the class after the 
+second session to allow the groups to grow through the material together.
+
+## Mailing List Signup Form
+To receive notifications and information about our upcoming classes please sign up for our mailing list below.
+
 
 <!-- Begin Mailchimp Signup Form -->
 <link href="//cdn-images.mailchimp.com/embedcode/classic-10_7_dtp.css" rel="stylesheet" type="text/css">
