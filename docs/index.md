@@ -10,7 +10,7 @@ a safe place to try and experience our reality
 ## Spring 2022 Signup
 
 We are excited to announce our Spring 2022 class will start March 3rd and last for 8 weeks! Please visit
-<a href="http://bit.ly/cth-spring2022">bit.ly/cth-spring2022</a> to reserve your seat(s) now! Seating is limited. Please note we close the class after the 
+[bit.ly/cth-spring2022](http://bit.ly/cth-spring2022) to reserve your seat(s) now! Seating is limited. Please note we close the class after the 
 second session to allow the groups to grow through the material together.
 
 ## Mailing List Signup Form
