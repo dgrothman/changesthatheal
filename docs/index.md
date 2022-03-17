@@ -7,12 +7,6 @@ We work through each symptom and discuss tools and perspectives that help to cre
 framework for handling life as it comes, rather than being handled by life. It is more than anything
 a safe place to try and experience our reality
 
-## Spring 2022 Signup
-
-We are excited to announce our Spring 2022 class will start March 3rd and last for 8 weeks! Please visit
-[bit.ly/cth-spring2022](http://bit.ly/cth-spring2022) to reserve your seat(s) now! Seating is limited. Please note we close the class after the 
-second session to allow the groups to grow through the material together.
-
 ## Mailing List Signup Form
 To receive notifications and information about our upcoming classes please sign up for our mailing list below.
 
@@ -69,7 +63,7 @@ four different personalities of the color code are.
 We help define what your reality is made up of and why it is so important as to how you interperet life, we also look at how we use negative control
 to try and change another person's reality, or let them control our reality.
 
-<iframe src="https://anchor.fm/dgrothman/embed/episodes/CTH---Fall-2021---Class-2---Reality-e18g2i5" height="102px" width="400px" frameborder="0" scrolling="no"></iframe>
+<iframe src="https://anchor.fm/dgrothman/embed/episodes/CTH---Spring-2022---Class-2---Reality-e1fiv0u" height="102px" width="400px" frameborder="0" scrolling="no"></iframe>
 #### [Class 3 - Reality Part 2 Feelings](/changesthatheal/C3-Feelings/ShameBasedDistortedThinking/)
 We dig into some more important items about reality, specifically. The Drama Triangle, what it is and how to 
 identify if you are in it. The positive and negative sides of our feelings, and how to identify them, and control them.
