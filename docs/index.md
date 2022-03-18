@@ -68,7 +68,7 @@ to try and change another person's reality, or let them control our reality.
 We dig into some more important items about reality, specifically. The Drama Triangle, what it is and how to 
 identify if you are in it. The positive and negative sides of our feelings, and how to identify them, and control them.
 
-<iframe src="https://anchor.fm/dgrothman/embed/episodes/CTH---Fall-2021---Class-3---Reality-Part-2-e18rehb" height="102px" width="400px" frameborder="0" scrolling="no"></iframe>
+<iframe src="https://anchor.fm/dgrothman/embed/episodes/CTH---Spring-2022---Class-3---Feelings-e1fthi1" height="102px" width="400px" frameborder="0" scrolling="no"></iframe>
 #### [Class 4 - Boundaries](/changesthatheal/C4-Boundaries/WhatAreBoundaries/)
 Now that we have started to understand how do we protect that, and protect us from forcing that reality onto others?
 Boundaries are how, they are the containers of our Reality. Not only do they protect us, but they also protect others
