@@ -74,7 +74,7 @@ Now that we have started to understand how do we protect that, and protect us fr
 Boundaries are how, they are the containers of our Reality. Not only do they protect us, but they also protect others
 from us.
 
-<iframe src="https://anchor.fm/dgrothman/embed/episodes/CTH---Fall-2021---Class-4---Boundaries-e198893" height="102px" width="400px" frameborder="0" scrolling="no"></iframe>
+<iframe src="https://anchor.fm/dgrothman/embed/episodes/CTH---Spring-2022---Class-4---Boundaries-e1g9121" height="102px" width="400px" frameborder="0" scrolling="no"></iframe>
 #### [Class 5 - Moderation](/changesthatheal/C5-Moderation/Moderation/)
 As you grow you start to become aware of areas that are over-the-top or suppressed both of
 which are not moderate, and then as you bring those areas into healing you will start to notice they get pulled back
