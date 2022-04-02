@@ -89,7 +89,7 @@ as balancing that share of their needs and wants along with your own needs and w
 conjunction with bringing your own reality and boundaries in moderation into the relationship
 creates the connection that is fulfilling for both people involved.
 
-<iframe src="https://anchor.fm/dgrothman/embed/episodes/CTH---Fall-2021---Class-6---Self-Care-e19rekb" height="102px" width="400px" frameborder="0" scrolling="no"></iframe>
+<iframe src="https://anchor.fm/dgrothman/embed/episodes/CTH---Spring-2022---Class-5---Self-Care-e1gjrrb" height="102px" width="400px" frameborder="0" scrolling="no"></iframe>
 #### [Class 7 - Self Esteem](/changesthatheal/C7-SelfEsteem/TheLie/)
 Value is what we all strive for, and in the weeks lesson we dig into the different types and how we can work to keep it within ourselves, as well as becoming aware of when we have placed it outside of ourselves and therefor are trying to control others.
 
