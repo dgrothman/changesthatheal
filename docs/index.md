@@ -75,21 +75,21 @@ Boundaries are how, they are the containers of our Reality. Not only do they pro
 from us.
 
 <iframe src="https://anchor.fm/dgrothman/embed/episodes/CTH---Spring-2022---Class-4---Boundaries-e1g9121" height="102px" width="400px" frameborder="0" scrolling="no"></iframe>
-#### [Class 5 - Moderation](/changesthatheal/C5-Moderation/Moderation/)
-As you grow you start to become aware of areas that are over-the-top or suppressed both of
-which are not moderate, and then as you bring those areas into healing you will start to notice they get pulled back
-to a more balanced moderate response.
-Moderation is the balancing piece that ties very closely to your reality and boundaries, all three combined 
-to give you a sense of your own empowerment and value. 
-
-<iframe src="https://anchor.fm/dgrothman/embed/episodes/CTH---Fall-2021---Class-5---Moderation-e19gc81" height="102px" width="400px" frameborder="0" scrolling="no"></iframe>
-#### [Class 6 - Self Care](/changesthatheal/C6-SelfCare/DifficultyAknowledingNeedsWants/)
+#### [Class 5 - Self Care](/changesthatheal/C5-SelfCare/DifficultyAknowledingNeedsWants/)
 Knowing our needs and wants is a pivotal step in creating connection in relationships, as well
 as balancing that share of their needs and wants along with your own needs and wants. This in
 conjunction with bringing your own reality and boundaries in moderation into the relationship
 creates the connection that is fulfilling for both people involved.
 
 <iframe src="https://anchor.fm/dgrothman/embed/episodes/CTH---Spring-2022---Class-5---Self-Care-e1gjrrb" height="102px" width="400px" frameborder="0" scrolling="no"></iframe>
+#### [Class 6 - Moderation](/changesthatheal/C6-Moderation/Moderation/)
+As you grow you start to become aware of areas that are over-the-top or suppressed both of
+which are not moderate, and then as you bring those areas into healing you will start to notice they get pulled back
+to a more balanced moderate response.
+Moderation is the balancing piece that ties very closely to your reality and boundaries, all three combined 
+to give you a sense of your own empowerment and value. 
+
+<iframe src="https://anchor.fm/dgrothman/embed/episodes/CTH---Spring-2022---Class-6---Moderation-e1gtpv4" height="102px" width="400px" frameborder="0" scrolling="no"></iframe></iframe>
 #### [Class 7 - Self Esteem](/changesthatheal/C7-SelfEsteem/TheLie/)
 Value is what we all strive for, and in the weeks lesson we dig into the different types and how we can work to keep it within ourselves, as well as becoming aware of when we have placed it outside of ourselves and therefor are trying to control others.
 
