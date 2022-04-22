@@ -98,7 +98,7 @@ Value is what we all strive for, and in the weeks lesson we dig into the differe
 Now that we have the tools we to work through re-parenting ourselves. These last ingredients are a big help in keeping us moving
 along the journey
 
-<iframe src="https://anchor.fm/dgrothman/embed/episodes/CTH---Fall-2021---Class-8---Grace--Truth--Time-e1aplgu" height="102px" width="400px" frameborder="0" scrolling="no"></iframe>
+<iframe src="https://anchor.fm/dgrothman/embed/episodes/CTH---Spring-2022---Class-8---Grace-Truth-Time-e1hhm32" height="102px" width="400px" frameborder="0" scrolling="no"></iframe>
 ## Class Resources
 
 * **[Color Code Personality Test](https://colorcode.com)**
